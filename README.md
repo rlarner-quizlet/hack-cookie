@@ -1,19 +1,11 @@
 # Hack Cookie
 
-[![Build Status](https://travis-ci.org/ytake/hack-cookie.svg?branch=master)](https://travis-ci.org/ytake/hack-cookie)
-
-Managing Cookies for [facebook/hack-http-request-response-interfaces](https://github.com/hhvm/hack-http-request-response-interfaces).
-
-Supported Only Hack library.
-Required HHVM >= 4.41.0
-
- - [ytake/hungrr](https://github.com/ytake/hungrr)
- - [usox/hackttp](https://github.com/usox/hackttp)
+Back-port of [ytake/hack-cookie](https://github.com/ytake/hack-cookie) to support HHVM 3.25
 
 ## Installation
 
 ```bash
-$> composer require ytake/hack-cookie
+$> composer require rlarner-quiz/hack-cookie
 ```
 
 ## Basic Usage
