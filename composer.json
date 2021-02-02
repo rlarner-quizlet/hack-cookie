@@ -5,10 +5,16 @@
   "type": "library",
   "license": "MIT",
   "minimum-stability": "stable",
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://github.com/quizlet/hhvm-autoload"
+    }
+  ],
   "require": {
     "hhvm": "^3.25",
     "hhvm/hsl": "^1.4.0",
-    "hhvm/hhvm-autoload": "^3.0",
+    "hhvm/hhvm-autoload": "dev-karoun/root-dir-legacy#0712091917fe35de9cf59a161aa0ab3650661aa9 as 1.6.6",
     "facebook/hack-http-request-response-interfaces": "^0.3"
   },
   "require-dev": {
