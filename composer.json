@@ -19,9 +19,8 @@
   },
   "require-dev": {
     "hhvm/hacktest": "^2.0",
-    "facebook/fbexpect": "^2.7",
-    "hhvm/hhast": "^4.0",
-    "hhvm/hsl-experimental": "^4.50",
+    "facebook/fbexpect": "^1.1.0",
+    "hhvm/hhast": "^1.0.1",
     "ytake/hungrr": "^0.13.2"
   },
   "autoload": {
