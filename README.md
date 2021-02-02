@@ -5,7 +5,7 @@ Back-port of [ytake/hack-cookie](https://github.com/ytake/hack-cookie) to suppor
 ## Installation
 
 ```bash
-$> composer require rlarner-quiz/hack-cookie
+$> composer require rlarner-quizlet/hack-cookie
 ```
 
 ## Basic Usage
