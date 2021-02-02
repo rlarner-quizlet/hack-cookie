@@ -6,8 +6,8 @@
   "license": "MIT",
   "minimum-stability": "stable",
   "require": {
-    "hhvm": "^4.44",
-    "hhvm/hsl": "^4.0",
+    "hhvm": "^3.25",
+    "hhvm/hsl": "^1.4.0",
     "hhvm/hhvm-autoload": "^3.0",
     "facebook/hack-http-request-response-interfaces": "^0.3"
   },
